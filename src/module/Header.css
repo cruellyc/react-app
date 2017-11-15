@@ -9,4 +9,18 @@
     top: 0px;
     right: 0px;
     left: 0px;
+    color: #FFFFFF;
+}
+.backBtn{
+    left: 10px;
+    top:0px;
+    position: absolute;
+}
+.tit{
+    font-size: 16px;
+}
+.opt{
+    right:10px;
+    top:0px;
+    position: absolute;
 }
