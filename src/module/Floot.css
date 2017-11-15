@@ -1,0 +1,51 @@
+.floot{
+    position: absolute;
+    width: 100%;
+    height: 50px;
+    font-size: 9px;
+    text-align: center;
+    background-color: #F3B6B6;
+    border-top: 1px solid #ED9696;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+.flootBtn2{
+    width: 50%;
+    float: left;
+    height: 50px;
+}
+.flootBtn3{
+    width: 33.3%;
+    float: left;
+    height: 50px;
+}
+.flootBtn4{
+    width: 25%;
+    float: left;
+    height: 50px;
+}
+.flootBtn5{
+    width: 20%;
+    float: left;
+    height: 50px;
+}
+.aTool_hl{
+    background-color: #EF6464;
+    color: #F9F9F9;
+}
+.aTool{
+    color: #FFFFFF;
+}
+.btnImg{
+    height: 20px;
+    line-height: 20px;
+    margin-top: 5px;
+}
+.btnImg img{
+    width: 20px;
+}
+.btnTxt{
+    height: 25px;
+    line-height: 25px;
+}
