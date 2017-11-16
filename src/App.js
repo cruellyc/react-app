@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Button } from 'react-weui';
 import Header from './module/Header.js';
 import Floot from './module/Floot.js';
 import logo from './images/logo.svg';
@@ -27,6 +28,7 @@ class App extends Component {
         <p className="App-intro">
           你可以在 <code>src/App.js</code> 文件中修改。
         </p>
+        <Button>hello wechat</Button>
         <Floot activeTool={0}/>
       </div>
     );
